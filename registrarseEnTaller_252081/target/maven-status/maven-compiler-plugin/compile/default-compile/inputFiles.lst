@@ -1,0 +1,17 @@
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/com/mycompany/registrarseentaller_252081/Ensamblador.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/com/mycompany/registrarseentaller_252081/RegistrarseEnTaller_252081.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/control/ControlInscripcion.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/model/Alumno.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/model/Evento.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/model/IConsultaInscripcion.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/model/Inscripcion.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/model/ModeloInscripcion.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/model/Observer.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/model/RepositorioAlumnos.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/model/RepositorioInscripciones.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/model/RepositorioTalleres.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/model/Taller.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/view/MainFrame.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/view/VistListaTalleres.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/view/VistaDetalleAlumnoTicket.java
+/home/luisb/Documents/itson/arquitectura/asignaciones/Examen_1_252081/registrarseEnTaller_252081/src/main/java/view/VistaDetalleTaller.java
